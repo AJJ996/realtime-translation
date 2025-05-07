@@ -6,9 +6,9 @@ Real-Time Translator is a cross-platform translation tool designed for both PC a
 
 ## Team Members
 
-* Arlind – Backend Developer (Flask & API Integration)
-* Ardit– Frontend Developer (React)
-* Nesar – Frontend Developer (React Native)
+* Arlind – Frontend Developer (React & React Native)
+* Ardit–  Backend Developer (Flask & API Integration)
+* Nesar – DataBase Developer (MongoDB)
 
 ## How to Set Up
 
