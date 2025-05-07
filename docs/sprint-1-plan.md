@@ -22,9 +22,9 @@ Implement the basic user registration and login functionality.
 
 ## Team Member Tasks
 
-* **[Team Member 1]**: Design and implement registration form
-* **[Team Member 2]**: Design and implement login form
-* **[Team Member 3]**: Set up user database structure
+* **[Arlind]**: Design and implement registration form
+* **[Ardit]**: Design and implement login form
+* **[Nesar]**: Set up user database structure
 * **[All Members]**: Review and test functionality
 
 ## Definition of Done
